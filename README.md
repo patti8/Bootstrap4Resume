@@ -1,7 +1,6 @@
 # Bootstrap4Resume
 
 A single-page static website with a fixed sidebar, smooth scrolling navigation, and content sections. Great for an elegant resume or portfolio. Mobile-friendly.
-
 ## Introduction
 
 This is a simple yet elegant website created with the help of a free Bootstrap template. It's fully responsive and easy to adapt for your own purposes. You just need some skills in HTML, Bootstrap 4, and CSS3 to personalize it. A working contact form is included.
